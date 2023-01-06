@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**webdevbynight/webdevbynight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Version française
 
-Here are some ideas to get you started:
+## Qui suis-je ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis actuellement croupier dans un club de jeux à Paris et je rêve d’être développeur web.
+
+## Mes futures compétences (enfin… je l’espère)
+
+- HTML
+- CSS
+- JavaScript
+
+# English version
+
+## Who am I?
+
+I am currently croupier at a gambling club (*club de jeux* in French) in Paris, France and I dream to be a web developer.
+
+## My future skills (well… I hope so)
+
+- HTML
+- CSS
+- JavaScript
