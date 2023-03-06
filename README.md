@@ -12,6 +12,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 - JavaScript
 - React
 - Express.js
+- git
 
 # English version
 
@@ -26,3 +27,4 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 - JavaScript
 - React
 - Express.js
+- git
