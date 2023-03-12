@@ -10,6 +10,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 - HTML
 - CSS
 - JavaScript
+- Node.js
 - React
 - Express.js
 - git
@@ -25,6 +26,7 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 - HTML
 - CSS
 - JavaScript
+- Node.js
 - React
 - Express.js
 - git
