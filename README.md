@@ -62,5 +62,7 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?logo=Figma&logoColor=white&style=for-the-badge)
 
+## Contact
+
 ### Social networks
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364ff?logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@webdevbynight) [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
