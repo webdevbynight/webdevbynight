@@ -33,7 +33,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 #### Environnements de développement
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=Apple&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=Vite&logoColor=white&style=for-the-badge)
+![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?logo=Vite&logoColor=white&style=for-the-badge)
 ![MAMP](https://img.shields.io/badge/-MAMP-02749c?logo=MAMP&logoColor=white&style=for-the-badge)
 
 #### Préprocesseurs
@@ -51,7 +51,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 ### Mes compétences en cours d’acquisition
 
-![React](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
+![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
 
 ### Mes futures compétences (enfin… je l’espère)
 
@@ -77,7 +77,7 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 
 #### Development environnements
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=Apple&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=Vite&logoColor=white&style=for-the-badge)
+![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?logo=Vite&logoColor=white&style=for-the-badge)
 ![MAMP](https://img.shields.io/badge/-MAMP-02749c?logo=MAMP&logoColor=white&style=for-the-badge)
 
 #### Preprocessors
@@ -95,7 +95,7 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 
 ### My skills being acquired
 
-![React](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
+![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
 
 ### My future skills (well… I hope so)
 
