@@ -5,12 +5,10 @@
   - [Qui suis-je ?](#qui-suis-je)
   - [Mes compétences actuelles](#mes-compétences-actuelles)
   - [Mes compétences en cours d’acquisition](#mes-compétences-en-cours-dacquisition)
-  - [Mes futures compétences (enfin… je l’espère)](#mes-futures-compétences-enfin-je-lespère)
 - [English version](#english-version)
   - [Who am I?](#who-am-i)
   - [My current skills](#my-current-skills)
   - [My skills being acquired](#my-skills-being-acquired)
-  - [My future skills (well… I hope so)](#my-future-skills-well-i-hope-so)
 - [Challenges](#challenges)
 - [Contact](#contact)
 
@@ -52,9 +50,6 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ### Mes compétences en cours d’acquisition
 
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
-
-### Mes futures compétences (enfin… je l’espère)
-
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
 
 
@@ -96,9 +91,6 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 ### My skills being acquired
 
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
-
-### My future skills (well… I hope so)
-
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
 
 ## Challenges
