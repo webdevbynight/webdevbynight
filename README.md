@@ -100,5 +100,6 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 
 ## Contact
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/victor-brito-69040a191/)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364ff?logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@webdevbynight)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
