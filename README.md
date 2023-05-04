@@ -36,9 +36,13 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![npm](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
 ![yarn](https://img.shields.io/badge/-yarn-2c8ebb?logo=yarn&logoColor=white&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/-pnpm-f69220?logo=pnpm&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-ff6c37?logo=Postman&logoColor=white&style=for-the-badge)
 
 #### Préprocesseurs
 ![SCSS](https://img.shields.io/badge/-SCSS-c69?logo=Sass&logoColor=white&style=for-the-badge)
+
+#### SGBD
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=white&style=for-the-badge)
 
 #### Contrôle de versions
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=for-the-badge)
@@ -80,9 +84,13 @@ After having worked as a croupier at several gaming clubs (*club de jeux* in Fre
 ![npm](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
 ![yarn](https://img.shields.io/badge/-yarn-2c8ebb?logo=yarn&logoColor=white&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/-pnpm-f69220?logo=pnpm&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-ff6c37?logo=Postman&logoColor=white&style=for-the-badge)
 
 #### Preprocessors
 ![SCSS](https://img.shields.io/badge/-SCSS-c69?logo=Sass&logoColor=white&style=for-the-badge)
+
+#### DBMS
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=white&style=for-the-badge)
 
 #### Version control
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=for-the-badge)
