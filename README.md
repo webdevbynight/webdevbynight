@@ -33,6 +33,10 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 #### Runtime environments
 ![Node.js](https://img.shields.io/badge/-Node.js-393?logo=Node.js&logoColor=white&style=for-the-badge)
 
+#### Libraries and frameworks
+![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
+
 #### Development environnements and tools
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=Apple&logoColor=white&style=for-the-badge)
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?logo=Vite&logoColor=white&style=for-the-badge)
@@ -58,8 +62,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 ### Future
 
-![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
+Stay tuned. 😉
 
 ## Challenges
 
