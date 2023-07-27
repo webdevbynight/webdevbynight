@@ -38,7 +38,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?logo=React&logoColor=333&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
 
-#### Development environnements and tools
+#### Development environments and tools
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=Apple&logoColor=white&style=for-the-badge)
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?logo=Vite&logoColor=white&style=for-the-badge)
 ![MAMP](https://img.shields.io/badge/-MAMP-02749c?logo=MAMP&logoColor=white&style=for-the-badge)
