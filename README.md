@@ -7,7 +7,6 @@
 - [Skills](#skills)
   - [Current](#my-current-skills)
   - [Currently learning](#currently-learning)
-  - [Future](#future)
 - [Challenges](#challenges)
 - [Contact](#contact)
 
