@@ -63,7 +63,6 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ### Currently learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=TypeScript&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-dd0031?logo=Angular&logoColor=white&style=for-the-badge)
 
 ## Challenges
 
