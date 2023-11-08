@@ -14,11 +14,11 @@
 
 ### English version
 
-After having worked as a croupier at several gaming clubs (*club de jeux* in French) in Paris, France (first at [Paris Élysées Club](https://www.pariselyseesclub.com/?lang=en), then at [Club Circus](https://www.circuscasino.fr/en/etablissements/club-paris/jeux), finally at [Club Pierre Charron](https://www.clubpierrecharron.com/en)), I am turning to front-end development. For this purpose, I have just finished a 5-month course in a bootcamp called [Wild Code School](https://www.wildcodeschool.com/en-gb/) and I am currently in an internship.
+After having worked as a croupier at several gaming clubs (*club de jeux* in French) in Paris, France (first at [Paris Élysées Club](https://www.pariselyseesclub.com/?lang=en), then at [Club Circus](https://www.circuscasino.fr/en/etablissements/club-paris/jeux), finally at [Club Pierre Charron](https://www.clubpierrecharron.com/en)), I am turning to front-end development. For this purpose, I have finished a 5-month course in a bootcamp called [Wild Code School](https://www.wildcodeschool.com/en-gb/), followed by an internship. I am currently looking for a job as a front-end developer.
 
 ### Version française
 
-Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Paris (d’abord au [Paris Élysées Club](https://www.pariselyseesclub.com), puis au [Club Circus](https://www.circuscasino.fr/fr/etablissements/club-paris/jeux), enfin au [Club Pierre Charron](https://www.clubpierrecharron.com)), je me tourne vers le développement front-end. Pour cela, je viens de finir une formation de 5 mois dans un bootcamp appelé [Wild Code School](https://www.wildcodeschool.com/fr-fr/) et je suis actuellement en stage.
+Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Paris (d’abord au [Paris Élysées Club](https://www.pariselyseesclub.com), puis au [Club Circus](https://www.circuscasino.fr/fr/etablissements/club-paris/jeux), enfin au [Club Pierre Charron](https://www.clubpierrecharron.com)), je me tourne vers le développement front-end. Pour cela, j’ai fini une formation de 5 mois dans un bootcamp appelé [Wild Code School](https://www.wildcodeschool.com/fr-fr/), suivie d’un stage. Je suis actuellement à la recherche d’un emploi en tant que développeur front-end.
 
 ## Skills
 
