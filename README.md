@@ -14,7 +14,7 @@
 
 ### English version
 
-After having worked as a croupier at several gaming clubs (*club de jeux* in French) in Paris, France (first at [Paris Élysées Club](https://www.pariselyseesclub.com/?lang=en), then at [Club Circus](https://www.circuscasino.fr/en/etablissements/club-paris/jeux), finally at [Club Pierre Charron](https://www.clubpierrecharron.com/en)), I am turning to front-end development. For this purpose, I have finished a 5-month course in a bootcamp called [Wild Code School](https://www.wildcodeschool.com/en-gb/), followed by an internship. I am currently looking for an apprenticeship or a permanent contract as a front-end developer.
+After having worked as a croupier in several gaming clubs (*club de jeux* in French) in Paris, France (first in [Paris Élysées Club](https://www.pariselyseesclub.com/?lang=en), then in [Club Circus](https://www.circuscasino.fr/en/etablissements/club-paris/jeux), finally in [Club Pierre Charron](https://www.clubpierrecharron.com/en)), I am turning to front-end development. For this purpose, I have finished a 5-month course in a bootcamp called [Wild Code School](https://www.wildcodeschool.com/en-gb/), followed by an internship. I am currently looking for an apprenticeship or a permanent contract as a front-end developer.
 
 ### Version française
 
