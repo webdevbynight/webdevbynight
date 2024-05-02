@@ -40,6 +40,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 #### Development environments and tools
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=Apple&logoColor=white&style=for-the-badge)
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?logo=Vite&logoColor=white&style=for-the-badge)
+![Biome](https://img.shields.io/badge/-Biome-60a5fa?logo=Biome&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c37?logo=Postman&logoColor=white&style=for-the-badge)
 ![MAMP](https://img.shields.io/badge/-MAMP-02749c?logo=MAMP&logoColor=white&style=for-the-badge)
