@@ -66,7 +66,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 ## Challenges
 
-[![Mastodon](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?logo=FrontEnd-Mentor&logoColor=white&style=for-the-badge)](https://www.frontendmentor.io/profile/webdevbynight)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?logo=FrontEnd-Mentor&logoColor=white&style=for-the-badge)](https://www.frontendmentor.io/profile/webdevbynight)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e?logo=Codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/webdevbynight)
 
 ## Contact
