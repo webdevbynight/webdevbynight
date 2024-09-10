@@ -61,6 +61,9 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 #### Design
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?logo=Figma&logoColor=white&style=for-the-badge)
 
+### Learning
+![Bun](https://img.shields.io/badge/-Bun-black?logo=Bun&logoColor=white&style=for-the-badge)
+
 ## Challenges
 
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?logo=FrontEnd-Mentor&logoColor=white&style=for-the-badge)](https://www.frontendmentor.io/profile/webdevbynight)
