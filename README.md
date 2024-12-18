@@ -6,6 +6,7 @@
   - [Version française](#version-française)
 - [Skills](#skills)
   - [Current](#my-current-skills)
+  - [Learning](#learning)
 - [Challenges](#challenges)
 - [Contact](#contact)
 
