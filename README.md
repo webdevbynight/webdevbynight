@@ -79,4 +79,5 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/victor-brito-69040a191/)
 [![Twitter](https://img.shields.io/badge/-X%20\(formerly%20Twitter\)-black?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/webdevbynight)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364ff?logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@webdevbynight)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0285ff?logo=Bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/webdevbynight.bsky.social)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
