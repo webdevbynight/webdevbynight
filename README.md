@@ -5,8 +5,9 @@
   - [English version](#english-version)
   - [Version française](#version-française)
 - [Skills](#skills)
-  - [Current](#my-current-skills)
+  - [Current](#current)
   - [Learning](#learning)
+- [Contributions to open source](#contributions-to-open-source)
 - [Challenges](#challenges)
 - [Contact](#contact)
 
@@ -69,6 +70,10 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 ### Learning
 ![Bun](https://img.shields.io/badge/-Bun-black?logo=Bun&logoColor=white&style=for-the-badge)
+
+## Contributions to open source
+
+- Translation into French of [Biome](https://github.com/biomejs)’s [official documentation](https://biomejs.dev/) ([see translation](https://biomejs.dev/fr/), in progress)
 
 ## Challenges
 
