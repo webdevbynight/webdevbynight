@@ -73,7 +73,9 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 ## Contributions to open source
 
-- Translation into French of [Biome](https://github.com/biomejs)’s [official documentation](https://biomejs.dev/) ([see translation](https://biomejs.dev/fr/), in progress)
+### [Biome](https://github.com/biomejs)
+- Translation into French of Biome’s [README.md](https://github.com/biomejs/biome/blob/main/packages/%40biomejs/biome/README.md) ([see translation](https://github.com/biomejs/biome/blob/main/packages/%40biomejs/biome/README.fr.md))
+- Translation into French of the [official documentation](https://biomejs.dev/) ([see translation](https://biomejs.dev/fr/), in progress)
 
 ## Challenges
 
