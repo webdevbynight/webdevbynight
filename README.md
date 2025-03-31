@@ -68,9 +68,6 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 #### Design
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?logo=Figma&logoColor=white&style=for-the-badge)
 
-### Learning
-![Bun](https://img.shields.io/badge/-Bun-black?logo=Bun&logoColor=white&style=for-the-badge)
-
 ## Contributions to open source
 
 ### [Biome](https://github.com/biomejs)
