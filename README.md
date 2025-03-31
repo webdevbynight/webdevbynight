@@ -49,7 +49,6 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![npm](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/-pnpm-f69220?logo=pnpm&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c37?logo=Postman&logoColor=white&style=for-the-badge)
-![MAMP](https://img.shields.io/badge/-MAMP-02749c?logo=MAMP&logoColor=white&style=for-the-badge)
 
 #### Preprocessors
 ![SCSS](https://img.shields.io/badge/-SCSS-c69?logo=Sass&logoColor=white&style=for-the-badge)
