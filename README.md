@@ -6,7 +6,6 @@
   - [Version française](#version-française)
 - [Skills](#skills)
   - [Current](#current)
-  - [Learning](#learning)
 - [Contributions to open source](#contributions-to-open-source)
 - [Challenges](#challenges)
 - [Contact](#contact)
