@@ -59,6 +59,10 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)
 
+#### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=GitHubActions&logoColor=white&style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=GitHubPages&logoColor=white&style=for-the-badge)
+
 #### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007acc?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?logo=WebStorm&logoColor=white&style=for-the-badge)
