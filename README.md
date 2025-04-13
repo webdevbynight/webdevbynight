@@ -42,7 +42,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![Vitest](https://img.shields.io/badge/-Vitest-6e9f18?logo=Vitest&logoColor=white&style=for-the-badge)
 
 #### Development environments and tools
-![macOS](https://img.shields.io/badge/-macOS-black?logo=Apple&logoColor=white&style=for-the-badge)
+![macOS](https://img.shields.io/badge/-macOS-black?logo=macOS&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=Vite&logoColor=white&style=for-the-badge)
 ![Biome](https://img.shields.io/badge/-Biome-60a5fa?logo=Biome&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
