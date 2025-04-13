@@ -58,6 +58,8 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 #### Version control
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)
+![Semantic versioning](https://img.shields.io/badge/-Semantic%20versioning-3f4551?logo=Semver&logoColor=white&style=for-the-badge)
+![Conventional Commits](https://img.shields.io/badge/-Conventional%20Commits-fe5196?logo=ConventionalCommits&logoColor=white&style=for-the-badge)
 
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=GitHubActions&logoColor=white&style=for-the-badge)
