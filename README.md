@@ -26,7 +26,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 #### Languages
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=HTML5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572b6?logo=CSS3&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=CSS&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=333&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&logoColor=white&style=for-the-badge)
