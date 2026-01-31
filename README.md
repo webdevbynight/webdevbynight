@@ -39,7 +39,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![Express](https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white&style=for-the-badge)
 
 #### Testing frameworks
-![Vitest](https://img.shields.io/badge/-Vitest-6e9f18?logo=Vitest&logoColor=white&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/-Vitest-00ff74?logo=Vitest&logoColor=white&style=for-the-badge)
 
 #### Development environments and tools
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=macOS&logoColor=white&style=for-the-badge)
