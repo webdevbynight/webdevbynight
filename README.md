@@ -66,7 +66,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222?logo=GitHubPages&logoColor=white&style=for-the-badge)
 
 #### IDEs
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007acc?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS_Code-007acc?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?logo=WebStorm&logoColor=white&style=for-the-badge)
 
 #### Design
@@ -86,7 +86,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/victor-brito-69040a191/)
-[![Twitter](https://img.shields.io/badge/-X_(formerly_Twitter)-black?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/webdevbynight)
+[![X (formerly Twitter)](https://img.shields.io/badge/-X_(formerly_Twitter)-black?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/webdevbynight)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364ff?logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@webdevbynight)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-1185fe?logo=Bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/webdevbynight.bsky.social)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0069?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
