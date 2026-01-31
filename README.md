@@ -89,4 +89,4 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 [![Twitter](https://img.shields.io/badge/-X%20\(formerly%20Twitter\)-black?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/webdevbynight)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364ff?logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@webdevbynight)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-1185fe?logo=Bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/webdevbynight.bsky.social)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0069?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
