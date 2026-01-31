@@ -32,7 +32,7 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&logoColor=white&style=for-the-badge)
 
 #### Runtime environments
-![Node.js](https://img.shields.io/badge/-Node.js-393?logo=Node.js&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-5fa04e?logo=Node.js&logoColor=white&style=for-the-badge)
 
 #### Libraries and frameworks
 ![React](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=333&style=for-the-badge)
