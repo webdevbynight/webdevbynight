@@ -58,15 +58,15 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 #### Version control
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)
-![Semantic versioning](https://img.shields.io/badge/-Semantic%20versioning-3f4551?logo=Semver&logoColor=white&style=for-the-badge)
-![Conventional Commits](https://img.shields.io/badge/-Conventional%20Commits-fe5196?logo=ConventionalCommits&logoColor=white&style=for-the-badge)
+![Semantic versioning](https://img.shields.io/badge/-Semantic_versioning-3f4551?logo=Semver&logoColor=white&style=for-the-badge)
+![Conventional Commits](https://img.shields.io/badge/-Conventional_Commits-fe5196?logo=ConventionalCommits&logoColor=white&style=for-the-badge)
 
 #### CI/CD
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=GitHubActions&logoColor=white&style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222?logo=GitHubPages&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?logo=GitHubActions&logoColor=white&style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222?logo=GitHubPages&logoColor=white&style=for-the-badge)
 
 #### IDEs
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007acc?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007acc?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?logo=WebStorm&logoColor=white&style=for-the-badge)
 
 #### Design
@@ -80,13 +80,13 @@ Après avoir exercé le métier de croupier dans plusieurs clubs de jeux à Pari
 
 ## Challenges
 
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-3f54a3?logo=FrontEnd-Mentor&logoColor=white&style=for-the-badge)](https://www.frontendmentor.io/profile/webdevbynight)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-3f54a3?logo=FrontEnd-Mentor&logoColor=white&style=for-the-badge)](https://www.frontendmentor.io/profile/webdevbynight)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e?logo=Codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/webdevbynight)
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/victor-brito-69040a191/)
-[![Twitter](https://img.shields.io/badge/-X%20\(formerly%20Twitter\)-black?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/webdevbynight)
+[![Twitter](https://img.shields.io/badge/-X_(formerly_Twitter)-black?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/webdevbynight)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364ff?logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@webdevbynight)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-1185fe?logo=Bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/webdevbynight.bsky.social)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0069?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/webdevbynight)
